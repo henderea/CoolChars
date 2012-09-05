@@ -1,0 +1,9 @@
+c:\users\henderea\documents\visual studio 2010\Projects\CoolChars\CoolChars\bin\Debug\CoolChars.exe
+c:\users\henderea\documents\visual studio 2010\Projects\CoolChars\CoolChars\bin\Debug\CoolChars.pdb
+c:\users\henderea\documents\visual studio 2010\Projects\CoolChars\CoolChars\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\henderea\documents\visual studio 2010\Projects\CoolChars\CoolChars\obj\x86\Debug\CoolChars.MainClass.resources
+c:\users\henderea\documents\visual studio 2010\Projects\CoolChars\CoolChars\obj\x86\Debug\CoolChars.Properties.Resources.resources
+c:\users\henderea\documents\visual studio 2010\Projects\CoolChars\CoolChars\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\henderea\documents\visual studio 2010\Projects\CoolChars\CoolChars\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\henderea\documents\visual studio 2010\Projects\CoolChars\CoolChars\obj\x86\Debug\CoolChars.exe
+c:\users\henderea\documents\visual studio 2010\Projects\CoolChars\CoolChars\obj\x86\Debug\CoolChars.pdb
